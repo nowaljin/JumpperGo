@@ -1,0 +1,38 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/student/Desktop/BozkurtIlker/UE/JumpperGo/Content/Texture/purple.uasset",
+				"C:/Users/student/Desktop/BozkurtIlker/UE/JumpperGo/Content/Texture/blue.uasset",
+				"C:/Users/student/Desktop/BozkurtIlker/UE/JumpperGo/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/F/4G/TYFCMQ9MC435YW6FZBF5FS.uasset",
+				"C:/Users/student/Desktop/BozkurtIlker/UE/JumpperGo/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/D/K5/NQBPXM7AM8N39CBW4ZT57P.uasset",
+				"C:/Users/student/Desktop/BozkurtIlker/UE/JumpperGo/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/A/8N/4L4W0MLV9WFUGRTMUBLBOP.uasset",
+				"C:/Users/student/Desktop/BozkurtIlker/UE/JumpperGo/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/D/8U/VKFLMM0CV8ZCC0P3TQGTTM.uasset",
+				"C:/Users/student/Desktop/BozkurtIlker/UE/JumpperGo/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/D/JN/XJOQXE943K1WCZGTZOQ1FG.uasset",
+				"C:/Users/student/Desktop/BozkurtIlker/UE/JumpperGo/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/C/EJ/P301AC37BCQ0PYWKRL2EGV.uasset",
+				"C:/Users/student/Desktop/BozkurtIlker/UE/JumpperGo/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/8/TH/TC32QET0VHF33SU6HI1OB1.uasset",
+				"C:/Users/student/Desktop/BozkurtIlker/UE/JumpperGo/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/7/8G/KZPTM70HOACCYREZDLG2HH.uasset",
+				"C:/Users/student/Desktop/BozkurtIlker/UE/JumpperGo/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/B/XP/VJJ5HJY7EMAWHFTP0O6426.uasset",
+				"C:/Users/student/Desktop/BozkurtIlker/UE/JumpperGo/Content/Texture/red.uasset",
+				"C:/Users/student/Desktop/BozkurtIlker/UE/JumpperGo/Content/Texture/Ground.uasset",
+				"C:/Users/student/Desktop/BozkurtIlker/UE/JumpperGo/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/0/F0/9GR2C3PCPC4YU8XAZLOFXD.uasset",
+				"C:/Users/student/Desktop/BozkurtIlker/UE/JumpperGo/Content/Blureprint/BP_MoovingFloor.uasset",
+				"C:/Users/student/Desktop/BozkurtIlker/UE/JumpperGo/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/1/KL/UYSRPQ5SOYIFVLEQINPH31.uasset",
+				"C:/Users/student/Desktop/BozkurtIlker/UE/JumpperGo/Content/Blureprint/BP_Highjump.uasset",
+				"C:/Users/student/Desktop/BozkurtIlker/UE/JumpperGo/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/3/71/FY8VISC37B7D1UQ16HMXXE.uasset",
+				"C:/Users/student/Desktop/BozkurtIlker/UE/JumpperGo/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/4/MV/DLEEXCFIVSDHA9D5QAQKZO.uasset",
+				"C:/Users/student/Desktop/BozkurtIlker/UE/JumpperGo/Content/Texture/texture.uasset",
+				"C:/Users/student/Desktop/BozkurtIlker/UE/JumpperGo/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/E/SS/QXUZ4IXFNKHCYFWERA1HQA.uasset",
+				"C:/Users/student/Desktop/BozkurtIlker/UE/JumpperGo/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/D/M3/6T1XG4EDG4ZEE1U9HMYL4C.uasset",
+				"C:/Users/student/Desktop/BozkurtIlker/UE/JumpperGo/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/8/7A/C0UVMH95QVQO1KMTVK7MSB.uasset",
+				"C:/Users/student/Desktop/BozkurtIlker/UE/JumpperGo/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/7/XU/RW3P9HUUCOCG5TL3TPG6XF.uasset",
+				"C:/Users/student/Desktop/BozkurtIlker/UE/JumpperGo/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/6/8I/HFL05AWIVBP8M8UXTV4H5K.uasset",
+				"C:/Users/student/Desktop/BozkurtIlker/UE/JumpperGo/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/5/W9/ZAAGYIUQZ2W6WEO3HPXAX7.uasset",
+				"C:/Users/student/Desktop/BozkurtIlker/UE/JumpperGo/Content/__ExternalActors__/ThirdPerson/Lvl_ThirdPerson/5/KG/ETKAO35ANVW90XFH3J8GJ2.uasset"
+			]
+		}
+	]
+}
